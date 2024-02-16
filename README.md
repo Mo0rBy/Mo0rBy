@@ -20,3 +20,5 @@ I've also dabbled in some automated testing, including functional testing as wel
 I'm a huge fan of open source tools! Here is my [1st PR](https://github.com/bitnami/containers/pull/55562) for an open source project! Specifically this was a small change in the Bitnami MinIO container image which involved modofying some shell scripts to make an environment configurable.
 
 And here is my [2nd](https://github.com/bitnami/charts/pull/23388)! This PR builds on my 1st to allow configuring the newly configurable environment variable in the Bitnami MinIO Helm chart.
+
+[![Mo0rBy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Mo0rBy/github-readme-stats)
