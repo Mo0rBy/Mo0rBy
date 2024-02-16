@@ -21,4 +21,4 @@ I'm a huge fan of open source tools! Here is my [1st PR](https://github.com/bitn
 
 And here is my [2nd](https://github.com/bitnami/charts/pull/23388)! This PR builds on my 1st to allow configuring the newly configurable environment variable in the Bitnami MinIO Helm chart.
 
-[![Mo0rBy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo0rbY&theme=merko)](https://github.com/Mo0rBy/github-readme-stats)
+[![Mo0rBy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo0rbY&theme=github_dark)](https://github.com/Mo0rBy/github-readme-stats)
