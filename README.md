@@ -1,6 +1,9 @@
 # Mo0rBy
 
-- ♾️ DevOps extraordinaire 
+- ♾️ Software Engineer that loves DevOps
+- 🧪 Masters in Chemical Engineering @ Newcatle University
+- 🧑‍💻 OpenSource contributor (I am looking for more opportunities)
+- 💭 Diving deeper into infrastructure testing
 
 ## Who am I?
 
