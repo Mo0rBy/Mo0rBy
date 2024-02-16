@@ -2,9 +2,9 @@
 
 ♾️ Software Engineer that loves DevOps
 
-🧪 Masters in Chemical Engineering @ Newcatle University
+🧑‍💻 OpenSource Contributor (I am looking for more opportunities)
 
-🧑‍💻 OpenSource contributor (I am looking for more opportunities)
+🧪 Masters in Chemical Engineering @ Newcastle University
 
 💭 Diving deeper into infrastructure testing
 
