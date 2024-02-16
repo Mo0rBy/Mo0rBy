@@ -24,4 +24,4 @@ And here is my [2nd](https://github.com/bitnami/charts/pull/23388)! This PR buil
 [![Mo0rBy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo0rbY&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 I've recently taken the plunge into Neovim to get become faster and more productive. This had lead me down the rabbit hole of attempting to do EVERYTHING in my terminal. My terminal setup can be found in my dot-file repo.
-[![Dotfile repo](https://github-readme-stats.vercel.app/api/pin/?username=Mo0rBy&repo=dot-files)](https://github.com/Mo0rBy/dot-files)
+[![Dotfile repo](https://github-readme-stats.vercel.app/api/pin/?username=Mo0rBy&repo=moorby-dotfiles)](https://github.com/Mo0rBy/moorby-dotfiles)
