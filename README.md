@@ -21,4 +21,7 @@ I'm a huge fan of open source tools! Here is my [1st PR](https://github.com/bitn
 
 And here is my [2nd](https://github.com/bitnami/charts/pull/23388)! This PR builds on my 1st to allow configuring the newly configurable environment variable in the Bitnami MinIO Helm chart.
 
-[![Mo0rBy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo0rbY&theme=github_dark)](https://github.com/Mo0rBy/github-readme-stats)
+[![Mo0rBy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mo0rbY&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+
+I've recently taken the plunge into Neovim to get become faster and more productive. This had lead me down the rabbit hole of attempting to do EVERYTHING in my terminal. My terminal setup can be found in my dot-file repo.
+[![Dotfile repo](https://github-readme-stats.vercel.app/api/pin/?username=Mo0rBy&repo=dot-files)](https://github.com/Mo0rBy/dot-files)
